@@ -1,3 +1,7 @@
+*{
+    background-color: aquamarine;
+}
+
 header,
 main {
     display: flex;
